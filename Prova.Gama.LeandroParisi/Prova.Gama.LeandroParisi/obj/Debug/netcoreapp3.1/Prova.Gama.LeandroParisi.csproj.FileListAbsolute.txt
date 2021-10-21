@@ -1,0 +1,14 @@
+C:\Users\u008109\Documents\Estudo\GamaAcademy\Curso\gamaAcademy_prova\Prova.Gama.LeandroParisi\Prova.Gama.LeandroParisi\bin\Debug\netcoreapp3.1\Prova.Gama.LeandroParisi.exe
+C:\Users\u008109\Documents\Estudo\GamaAcademy\Curso\gamaAcademy_prova\Prova.Gama.LeandroParisi\Prova.Gama.LeandroParisi\bin\Debug\netcoreapp3.1\Prova.Gama.LeandroParisi.deps.json
+C:\Users\u008109\Documents\Estudo\GamaAcademy\Curso\gamaAcademy_prova\Prova.Gama.LeandroParisi\Prova.Gama.LeandroParisi\bin\Debug\netcoreapp3.1\Prova.Gama.LeandroParisi.runtimeconfig.json
+C:\Users\u008109\Documents\Estudo\GamaAcademy\Curso\gamaAcademy_prova\Prova.Gama.LeandroParisi\Prova.Gama.LeandroParisi\bin\Debug\netcoreapp3.1\Prova.Gama.LeandroParisi.runtimeconfig.dev.json
+C:\Users\u008109\Documents\Estudo\GamaAcademy\Curso\gamaAcademy_prova\Prova.Gama.LeandroParisi\Prova.Gama.LeandroParisi\bin\Debug\netcoreapp3.1\Prova.Gama.LeandroParisi.dll
+C:\Users\u008109\Documents\Estudo\GamaAcademy\Curso\gamaAcademy_prova\Prova.Gama.LeandroParisi\Prova.Gama.LeandroParisi\bin\Debug\netcoreapp3.1\Prova.Gama.LeandroParisi.pdb
+C:\Users\u008109\Documents\Estudo\GamaAcademy\Curso\gamaAcademy_prova\Prova.Gama.LeandroParisi\Prova.Gama.LeandroParisi\obj\Debug\netcoreapp3.1\Prova.Gama.LeandroParisi.csproj.AssemblyReference.cache
+C:\Users\u008109\Documents\Estudo\GamaAcademy\Curso\gamaAcademy_prova\Prova.Gama.LeandroParisi\Prova.Gama.LeandroParisi\obj\Debug\netcoreapp3.1\Prova.Gama.LeandroParisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u008109\Documents\Estudo\GamaAcademy\Curso\gamaAcademy_prova\Prova.Gama.LeandroParisi\Prova.Gama.LeandroParisi\obj\Debug\netcoreapp3.1\Prova.Gama.LeandroParisi.AssemblyInfoInputs.cache
+C:\Users\u008109\Documents\Estudo\GamaAcademy\Curso\gamaAcademy_prova\Prova.Gama.LeandroParisi\Prova.Gama.LeandroParisi\obj\Debug\netcoreapp3.1\Prova.Gama.LeandroParisi.AssemblyInfo.cs
+C:\Users\u008109\Documents\Estudo\GamaAcademy\Curso\gamaAcademy_prova\Prova.Gama.LeandroParisi\Prova.Gama.LeandroParisi\obj\Debug\netcoreapp3.1\Prova.Gama.LeandroParisi.csproj.CoreCompileInputs.cache
+C:\Users\u008109\Documents\Estudo\GamaAcademy\Curso\gamaAcademy_prova\Prova.Gama.LeandroParisi\Prova.Gama.LeandroParisi\obj\Debug\netcoreapp3.1\Prova.Gama.LeandroParisi.dll
+C:\Users\u008109\Documents\Estudo\GamaAcademy\Curso\gamaAcademy_prova\Prova.Gama.LeandroParisi\Prova.Gama.LeandroParisi\obj\Debug\netcoreapp3.1\Prova.Gama.LeandroParisi.pdb
+C:\Users\u008109\Documents\Estudo\GamaAcademy\Curso\gamaAcademy_prova\Prova.Gama.LeandroParisi\Prova.Gama.LeandroParisi\obj\Debug\netcoreapp3.1\Prova.Gama.LeandroParisi.genruntimeconfig.cache
